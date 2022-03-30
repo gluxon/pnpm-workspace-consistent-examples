@@ -1,4 +1,15 @@
 {
   "name": "example-monorepo",
-  "private": true
+  "private": true,
+  "pnpm": {
+    "workspaceConsistent": {
+      "versions": {
+        "jest": "^27.5.1",
+
+        "react": "^17.0.2",
+
+        "react-dom": "^17.0.2"
+      }
+    }
+  }
 }
