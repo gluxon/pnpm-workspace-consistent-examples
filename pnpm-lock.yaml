@@ -3,8 +3,8 @@ lockfileVersion: imaginary
 workspaceConsistent:
   # Spaces after each block are intentional to help git auto merge version changes.
   jest:
-    specifier: ^27.5.1
-    dependency: 27.5.1
+    specifier: ^28.0.0-alpha.7
+    dependency: 28.0.0-alpha.7
 
   react:
     specifier: ^17.0.2
