@@ -1,0 +1,6 @@
+{
+  "name": "@monorepo/foo",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
