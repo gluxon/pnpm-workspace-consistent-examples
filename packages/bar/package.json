@@ -3,8 +3,5 @@
   "dependencies": {
     "react": "workspace-consistent:",
     "react-dom": "workspace-consistent:"
-  },
-  "devDependencies": {
-    "jest": "workspace-consistent:"
   }
 }

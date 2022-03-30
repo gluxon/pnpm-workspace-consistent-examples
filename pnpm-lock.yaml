@@ -2,10 +2,6 @@ lockfileVersion: imaginary
 
 workspaceConsistent:
   # Spaces after each block are intentional to help git auto merge version changes.
-  jest:
-    specifier: ^27.5.1
-    dependency: 27.5.1
-
   react:
     specifier: ^17.0.2
     dependency: 17.0.2
@@ -21,14 +17,11 @@ importers:
 
   packages/bar:
     specifiers:
-      jest: workspace-consistent:
       react: workspace-consistent:
       react-dom: workspace-consistent:
     dependencies:
       react: workspace-consistent:
       react-dom: workspace-consistent:_react@workspace-consistent:
-    devDependencies:
-      jest: workspace-consistent:
 
   packages/foo:
     specifiers:

@@ -4,7 +4,7 @@
   "pnpm": {
     "workspaceConsistent": {
       "versions": {
-        "jest": "^27.5.1",
+        "jest": "^28.0.0-alpha.7",
 
         "react": "^17.0.2",
 
