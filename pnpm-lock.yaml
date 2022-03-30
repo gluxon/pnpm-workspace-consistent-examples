@@ -33,8 +33,10 @@ importers:
   packages/foo:
     specifiers:
       react: workspace-consistent:
+      react-dom: workspace-consistent:
     dependencies:
       react: workspace-consistent:
+      react-dom: workspace-consistent:_react@workspace-consistent:
 
 packages:
 

@@ -1,6 +1,7 @@
 {
   "name": "@monorepo/foo",
   "dependencies": {
-    "react": "workspace-consistent:"
+    "react": "workspace-consistent:",
+    "react-dom": "workspace-consistent:"
   }
 }
