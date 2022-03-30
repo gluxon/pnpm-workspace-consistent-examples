@@ -7,12 +7,12 @@ workspaceConsistent:
     dependency: 27.5.1
 
   react:
-    specifier: ^17.0.2
-    dependency: 17.0.2
+    specifier: ^18.0.0
+    dependency: 18.0.0
 
   react-dom:
-    specifier: ^17.0.2
-    dependency: 17.0.2
+    specifier: ^18.0.0
+    dependency: 18.0.0
 
 importers:
 
